@@ -12,7 +12,11 @@
       "amount": 10.97,
       "percentage": 15.68
     },
-    "image": "https://m.media-amazon.com/images/I/31ap1YeV6tL._AC_SL1001_.jpg"
+    "image": "https://m.media-amazon.com/images/I/31ap1YeV6tL._AC_SL1001_.jpg",
+    "link": {
+      "ref": "https://www.amazon.de/dp/B0BVKZDF98",
+      "rel": "Amazon"
+    }
   },
  {
     "title": "SONGMICS Laptoptisch Notebookt",
@@ -27,7 +31,11 @@
       "amount": 4.00,
       "percentage": 15.39
     },
-    "image": "https://m.media-amazon.com/images/I/61NlQrYmNWL._AC_SX679_.jpg"
+    "image": "https://m.media-amazon.com/images/I/61NlQrYmNWL._AC_SX679_.jpg",
+    "link": {
+      "ref": "https://www.amazon.de/dp/B0087XZMR8",
+      "rel": "Amazon"
+    }
   },
   {
     "title": "TP-Link Deco X1500 Mesh WLAN S",
@@ -42,6 +50,10 @@
       "amount": 9.00,
       "percentage": 12.33
     },
-    "image": "https://m.media-amazon.com/images/I/41HPajBqIAL._AC_SX679_.jpg"
+    "image": "https://m.media-amazon.com/images/I/41HPajBqIAL._AC_SX679_.jpg",
+    "link": {
+      "ref": "https://www.amazon.de/dp/B0CL577P1S",
+      "rel": "Amazon"
+    }
   }
 ]

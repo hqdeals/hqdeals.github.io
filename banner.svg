@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 408 120" role="img" aria-label="HQ Deals banner">
+  <style>
+    .hq {
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-weight: 700;
+      fill: #1f3a5f;
+    }
+    .deals {
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-weight: 400;
+      fill: #9aa3ad;
+    }
+  </style>
+
+  <!-- Layout math:
+       left margin  = 24
+       HQ width     = 128
+       gap          = 24
+       Deals width  = 208
+       right margin = 24
+       total width  = 408
+  -->
+
+  <text x="24" y="96" font-size="96" textLength="128" lengthAdjust="spacingAndGlyphs" class="hq" dominant-baseline="alphabetic">HQ</text>
+
+  <text x="176" y="96" font-size="64" textLength="208" lengthAdjust="spacingAndGlyphs" class="deals" dominant-baseline="alphabetic">Deals</text>
+</svg>

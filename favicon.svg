@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" role="img" aria-label="HQ Deals favicon">
+  <style>
+    .hq {
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-weight: 700;
+      fill: #1f3a5f;
+    }
+  </style>
+
+  <text x="130" y="130" text-anchor="middle" dominant-baseline="middle" font-size="160" class="hq">HQ</text>
+</svg>
